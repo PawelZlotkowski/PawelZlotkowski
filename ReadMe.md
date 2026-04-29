@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on a client project starting in 2 months<br>👯 I’m looking to help with a summer internship opportunity<br>🤝 I’m looking for help with Machine Learning / AI and .NET development<br>🌱 I’m currently learning Machine Learning / AI and .NET development<br>💬 Ask me about Machine Learning / AI, .NET / C#, and Algorithms & Data Structures<br>
+#  About Me:
+ I’m currently working on a client project starting in 2 months<br> I’m looking to help with a summer internship opportunity<br> I’m looking for help with Machine Learning / AI and .NET development<br> I’m currently learning Machine Learning / AI and .NET development<br> Ask me about Machine Learning / AI, .NET / C#, and Algorithms & Data Structures<br>
 
 
 ## 🌐 Socials:
