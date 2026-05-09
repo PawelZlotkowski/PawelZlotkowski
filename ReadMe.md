@@ -1,5 +1,22 @@
-#  About Me:
-I’m looking to help with a summer internship opportunity<br> I’m looking for help with Machine Learning / AI and .NET development<br> I’m currently learning Machine Learning / AI and .NET development<br> Ask me about Machine Learning / AI, .NET / C#, and Algorithms & Data Structures<br>
+# Hey, I'm Pawel
+
+Creative Technologies & AI student at Howest University in Belgium.
+I build things that sit somewhere between machine learning research and production software.
+
+## What I'm working on
+
+- **Smart Traffic Management System** - vehicle detection with YOLO + ByteTrack, time series forecasting (ARIMA / Prophet / LSTM), GNN modeling, and a genetic algorithm for signal optimization
+- **Nova Drive** - autonomous ride-hailing platform with a .NET 10 Minimal API backend, PostgreSQL + MongoDB, Auth0, GraphQL, and two React frontends
+- **Gymnastics Analysis** - MediaPipe Pose pipeline for phase-based movement assessment, served via FastAPI
+
+## Looking for
+
+A summer internship in ML/AI engineering or .NET backend development.
+If you're building something interesting in either space, let's talk.
+
+## Ask me about
+
+Computer vision pipelines, time series forecasting, graph neural networks, .NET Minimal API architecture, or how to overengineer a traffic light.
 
 
 ## 🌐 Socials:
