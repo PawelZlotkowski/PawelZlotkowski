@@ -1,4 +1,4 @@
-# Hey, I'm Pawel
+# Hey, I'm Paweł
 
 Creative Technologies & AI student at Howest University in Belgium.
 I build things that sit somewhere between machine learning research and production software.
