@@ -11,8 +11,9 @@ I build things that sit somewhere between machine learning research and producti
 
 ## Looking for
 
-A summer internship in ML/AI engineering or .NET backend development.
-If you're building something interesting in either space, let's talk.
+I'm looking for an internship opportunity where I can contribute to AI/ML, computer vision, data-driven systems or software engineering projects.
+
+I'm especially interested in teams that build practical AI systems — from data and models to APIs, databases, dashboards and real-world usage.
 
 ## Ask me about
 
